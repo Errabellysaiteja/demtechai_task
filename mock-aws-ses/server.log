@@ -1,0 +1,5 @@
+[2025-02-03T17:10:21+05:30] Received email request
+[2025-02-03T17:10:21+05:30] Resetting email count (1 hour passed)
+[2025-02-03T17:10:21+05:30] Email sent successfully, total emails sent: 1
+[2025-02-03T17:12:12+05:30] Received email request
+[2025-02-03T17:12:12+05:30] Invalid recipient email: user1example.com
