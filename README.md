@@ -1,3 +1,6 @@
+GO TO MASTER BRANCH FOR CODING
+
+
 Mock AWS SES API
 This project is a mock API simulating the behavior of AWS SES (Simple Email Service). The goal is to test email sending without actually using the AWS SES service. Instead, it tracks API usage statistics and mimics the API's contract and behavior.
 
